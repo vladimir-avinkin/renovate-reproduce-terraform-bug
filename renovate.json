@@ -5,7 +5,7 @@
   ],
   "packageRules": [
     {
-      "matchDepNames": [".*"],
+      "matchDepPatterns": [".*"],
       "description": "test group",
       "groupName": "test"
     }
